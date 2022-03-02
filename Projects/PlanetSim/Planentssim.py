@@ -132,6 +132,7 @@ def main():
             planet.draw(win)
 
         pygame.display.update()
+        
     pygame.quit()
 
 main()
